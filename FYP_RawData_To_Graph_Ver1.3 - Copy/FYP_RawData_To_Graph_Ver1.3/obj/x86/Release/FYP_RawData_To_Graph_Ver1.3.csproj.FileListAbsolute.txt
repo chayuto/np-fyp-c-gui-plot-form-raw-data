@@ -1,0 +1,7 @@
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\bin\Release\FYP_RawData_To_Graph_Ver1.3.exe
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\bin\Release\FYP_RawData_To_Graph_Ver1.3.pdb
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\obj\x86\Release\FYP_RawData_To_Graph_Ver1._3.Form1.resources
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\obj\x86\Release\FYP_RawData_To_Graph_Ver1._3.Properties.Resources.resources
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\obj\x86\Release\FYP_RawData_To_Graph_Ver1.3.csproj.GenerateResource.Cache
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\obj\x86\Release\FYP_RawData_To_Graph_Ver1.3.exe
+C:\Users\Ken Lai\Desktop\Documents for PB18 Sentinel Active Monitoring\C# programming\FYP_RawData_To_Graph_Ver1.3 - Copy\FYP_RawData_To_Graph_Ver1.3\obj\x86\Release\FYP_RawData_To_Graph_Ver1.3.pdb
